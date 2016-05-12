@@ -1,0 +1,1 @@
+WhatIsOnListIntent what is [on|in] [the|] {ListName} [list|]
